@@ -280,7 +280,7 @@ Values from the default model (CalculiX 2.21, single core, about 78 s,
 The slab method assumes full sliding over the whole die face and
 typically overestimates the load; part of the contact actually sticks.
 
-![Forging load versus stroke](load_stroke.png)
+
 
 ### What to look for
 
